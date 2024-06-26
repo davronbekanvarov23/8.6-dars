@@ -1,0 +1,15 @@
+.align-items {
+  max-width: 1110px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px 0;
+}
+
+h1 {
+  color: blueviolet;
+ text-align: center;
+}
+.section{
+text-align: center;
+margin-left: auto;
+margin-right: auto;}
